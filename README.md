@@ -14,7 +14,7 @@ SOFTWARE REQUIRED:
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
 ## CIRCUIT DIAGRAM: Inverting amplifier: 
-
+1
 ## GRAPH: Inverting amplifier: 
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
